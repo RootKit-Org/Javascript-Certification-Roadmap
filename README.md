@@ -1,6 +1,6 @@
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-# Java Certification Requirements
+# Javascript Certification Requirements
 Welcome to RootKit's Javascript Certification Requirements! These requirements list
 everything you need to know in order to obtain our java certificate!
 
