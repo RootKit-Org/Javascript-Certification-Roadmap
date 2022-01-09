@@ -79,3 +79,29 @@ Below are all the possible things we will test for.
 - `condition ? val1 : val2` \- Ternary
 - , \- Comma Operator
 
+---
+
+## 2. Data Types
+
+---
+
+### 2.1 Primitive
+
+- Boolean
+- null
+- undefined
+- Number
+- BigInt
+- String
+- Symbol
+- Object
+
+### 2.2 Literal
+
+- Array
+- Boolean
+- Floating\-Point
+- Numeric
+- Object
+- RegExp
+- String
