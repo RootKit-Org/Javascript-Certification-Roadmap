@@ -6,8 +6,6 @@ Below are all the possible things we will test for.
 
 ## 1. Operators
 
----
-
 ### 1.1 Assignment
 
 - =
@@ -82,8 +80,6 @@ Below are all the possible things we will test for.
 ---
 
 ## 2. Data Types
-
----
 
 ### 2.1 Primitive
 
