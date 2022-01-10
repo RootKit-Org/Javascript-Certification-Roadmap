@@ -1,103 +1,229 @@
+<!-- markdownlint-disable MD033 -->
+
 # JavaScript
 
 Below are all the possible things we will test for.
 
 ---
 
-## 1. Operators
+## 1. Expressions and Operators
 
-### 1.1 Assignment
+<details>
+<summary>1.1 Primary Expressions</summary>
+<ul>
+<li>this</li>
+<li>function</li>
+<li>class</li>
+<li>function\*</li>
+<li>yield</li>
+<li>yield\*</li>
+<li>async</li>
+<li>await</li>
+<li>[]</li>
+<li>{}</li>
+<li>`/ab+c/i`</li>
+<li>( )</li>
 
-- =
-- +=
-- -=
-- *=
-- /=
-- %=
-- **=
-- <<=
-- \>>=
-- \>\>\>=
-- &=
-- ^=
-- |=
-- &&=
-- ||=
-- ??=
+</ul>
+</details>
+<details>
+<summary>1.2 Left-hand-side Expressions</summary>
+<ul>
+<li>Property Accessors</li>
+<li>new</li>
+<li>new.target</li>
+<li>import.meta</li>
+<li>super</li>
+<li>Spread Syntax</li>
 
-### 1.2 Comparrison
+</ul>
+</details>
+<details>
+<summary>1.3 Increment and Decrement</summary>
+<ul>
+<li>A++</li>
+<li>A--</li>
+<li>\-\-A</li>
+<li>++A</li>
 
-- ==
-- !=
-- ===
-- !==
-- \>
-- \>=
-- <
-- <=
+</ul>
+</details>
+<details>
+<summary>1.4 Unary Operators</summary>
+<ul>
+<li>delete</li>
+<li>void</li>
+<li>typeof</li>
+<li>\+</li>
+<li>\-</li>
+<li>~</li>
+<li>!</li>
 
-### 1.3 Arithmatic
+</ul>
+</details>
+<details>
+<summary>1.5 Arithmatic Operators</summary>
+<ul>
+<li>\+</li>
+<li>\-</li>
+<li>/</li>
+<li>\*</li>
+<li>%</li>
+<li>\*\*</li>
 
-- %
-- \+\+
-- \-\-
-- \-
-- **
+</ul>
+</details>
+<details>
+<summary>1.6 Relational Operators</summary>
+<ul>
+<li>in</li>
+<li>instanceof</li>
+<li><</li>
+<li>\></li>
+<li><=</li>
+<li>\>=</li>
 
-### 1.4 Bitwise
+</ul>
+</details>
+<details>
+<summary>1.7 Equality Operators</summary>
+<ul>
+<li>==</li>
+<li>!=</li>
+<li>===</li>
+<li>!==</li>
 
-- &
-- |
-- ^
-- ~
-- <<
-- \>\>
-- \>\>\>
+</ul>
+</details>
+<details>
+<summary>1.8 Bitwise Shift Operators</summary>
+<ul>
+<li><<</li>
+<li>\>\></li>
+<li>\>\>\></li>
 
-### 1.5 Logical
+</ul>
+</details>
+<details>
+<summary>1.9 Binary Bitwise Operators</summary>
+<ul>
+<li>&</li>
+<li>|</li>
+<li>^</li>
 
-- &&
-- ||
-- !
+</ul>
+</details>
+<details>
+<summary>1.10 Binary Logical Operators</summary>
+<ul>
+<li>&&</li>
+<li>||</li>
+<li>??</li>
 
-### 1.6 Unary
+</ul>
+</details>
+<details>
+<summary>1.11 Conditional (ternary) Operator</summary>
+<ul>
+<li>(condition ? ifTrue : ifFalse)</li>
 
-- delete
-- typeof
-- void
+</ul>
+</details>
+<details>
+<summary>1.12 Optional Chaining</summary>
+<ul>
+<li>?.</li>
 
-### 1.7 Relational
+</ul>
+</details>
+<details>
+<summary>1.13 Assignment Operators</summary>
+<ul>
+<li>=</li>
+<li>\*-</li>
+<li>\*\*-</li>
+<li>/=</li>
+<li>%=</li>
+<li>+=</li>
+<li>\-=</li>
+<li><<=</li>
+<li>\>\>=</li>
+<li>\>\>\>=</li>
+<li>&=</li>
+<li>^=</li>
+<li>|=</li>
+<li>&&=</li>
+<li>||=</li>
+<li>??=</li>
+<li>`[a, b] = [1, 2]` `{a, b} = {a:1, b:2}`</li>
 
-- in
-- instanceOf
+</ul>
+</details>
+<details>
+<summary>1.14 Comma Operator</summary>
+<ul>
+<li>,</li>
 
-### 1.8 Misc
+</ul>
+</details>
 
-- \+ \- Concatination
-- `condition ? val1 : val2` \- Ternary
-- , \- Comma Operator
+## 2. Statements and Declerations
 
----
+<details>
+<summary>2.1 Control Flow</summary>
+<ul>
+<li>Block {}</li>
+<li>break</li>
+<li>continue</li>
+<li>Empty</li>
+<li>if...else</li>
+<li>switch</li>
+<li>throw</li>
+<li>try...catch</li>
 
-## 2. Data Types
+</ul>
+</details>
+<details>
+<summary>2.2 Declarations</summary>
+<ul>
+<li>var</li>
+<li>let</li>
+<li>const</li>
 
-### 2.1 Primitive
+</ul>
+</details>
+<details>
+<summary>2.3 Functions and Classes</summary>
+<ul>
+<li>function</li>
+<li>function\*</li>
+<li>async function</li>
+<li>return</li>
+<li>class</li>
 
-- Boolean
-- null
-- undefined
-- Number
-- BigInt
-- String
-- Symbol
-- Object
+</ul>
+</details>
+<details>
+<summary>2.4 Iterations</summary>
+<ul>
+<li>do...while</li>
+<li>for</li>
+<li>for...in</li>
+<li>for...of</li>
+<li>for await...of</li>
+<li>while</li>
 
-### 2.2 Literal
+</ul>
+</details>
+<details>
+<summary>2.5 Other</summary>
+<ul>
+<li>debugger</li>
+<li>export</li>
+<li>import</li>
+<li>import.meta</li>
+<li>label</li>
+<li>with</li>
 
-- Array
-- Boolean
-- Floating\-Point
-- Numeric
-- Object
-- RegExp
-- String
+</ul>
+</details>
