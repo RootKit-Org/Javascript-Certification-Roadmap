@@ -24,7 +24,7 @@ Below are all the possible things we will test for.
 <li>{}</li>
 <li><code>/ab+c/i</code></li>
 <li>( )</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -37,7 +37,7 @@ Below are all the possible things we will test for.
 <li>import.meta</li>
 <li>super</li>
 <li>Spread Syntax</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -48,7 +48,7 @@ Below are all the possible things we will test for.
 <li>A--</li>
 <li>--A</li>
 <li>++A</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -62,7 +62,7 @@ Below are all the possible things we will test for.
 <li>-</li>
 <li>~</li>
 <li>!</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -75,7 +75,7 @@ Below are all the possible things we will test for.
 <li>*</li>
 <li>%</li>
 <li>**</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -88,7 +88,7 @@ Below are all the possible things we will test for.
 <li>></li>
 <li><=</li>
 <li>>=</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -99,7 +99,7 @@ Below are all the possible things we will test for.
 <li>!=</li>
 <li>===</li>
 <li>!==</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -109,7 +109,7 @@ Below are all the possible things we will test for.
 <li><<</li>
 <li>>></li>
 <li>>>></li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -119,7 +119,7 @@ Below are all the possible things we will test for.
 <li>&</li>
 <li>|</li>
 <li>^</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -129,7 +129,7 @@ Below are all the possible things we will test for.
 <li>&&</li>
 <li>||</li>
 <li>??</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -137,7 +137,7 @@ Below are all the possible things we will test for.
 <summary>1.11 Conditional (ternary) Operator</summary>
 <ul>
 <li><code>(condition ? ifTrue : ifFalse)</code></li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -145,7 +145,7 @@ Below are all the possible things we will test for.
 <summary>1.12 Optional Chaining</summary>
 <ul>
 <li>?.</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -169,7 +169,7 @@ Below are all the possible things we will test for.
 <li>||=</li>
 <li>??=</li>
 <li><code>[a, b] = [1, 2]</code> <code>{a, b} = {a:1, b:2}</code></li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -177,7 +177,7 @@ Below are all the possible things we will test for.
 <summary>1.14 Comma Operator</summary>
 <ul>
 <li>,</li>
-</ul>?
+</ul>
 </details>
 
 ## 2. Statements and Declerations
@@ -194,7 +194,7 @@ Below are all the possible things we will test for.
 <li>switch</li>
 <li>throw</li>
 <li>try...catch</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -204,7 +204,7 @@ Below are all the possible things we will test for.
 <li>var</li>
 <li>let</li>
 <li>const</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -216,7 +216,7 @@ Below are all the possible things we will test for.
 <li>async function</li>
 <li>return</li>
 <li>class</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -229,7 +229,7 @@ Below are all the possible things we will test for.
 <li>for...of</li>
 <li>for await...of</li>
 <li>while</li>
-</ul>?
+</ul>
 </details>
 
 <!-- Dropdown -->
@@ -242,5 +242,5 @@ Below are all the possible things we will test for.
 <li>import.meta</li>
 <li>label</li>
 <li>with</li>
-</ul>?
+</ul>
 </details>
