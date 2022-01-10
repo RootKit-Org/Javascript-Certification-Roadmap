@@ -8,6 +8,7 @@ Below are all the possible things we will test for.
 
 ## 1. Expressions and Operators
 
+<!-- Dropdown -->
 <details>
 <summary>1.1 Primary Expressions</summary>
 <ul>
@@ -26,6 +27,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.2 Left-hand-side Expressions</summary>
 <ul>
@@ -38,6 +41,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.3 Increment and Decrement</summary>
 <ul>
@@ -48,6 +53,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.4 Unary Operators</summary>
 <ul>
@@ -61,6 +68,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.5 Arithmatic Operators</summary>
 <ul>
@@ -73,6 +82,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.6 Relational Operators</summary>
 <ul>
@@ -85,6 +96,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.7 Equality Operators</summary>
 <ul>
@@ -95,6 +108,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.8 Bitwise Shift Operators</summary>
 <ul>
@@ -104,6 +119,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.9 Binary Bitwise Operators</summary>
 <ul>
@@ -113,6 +130,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.10 Binary Logical Operators</summary>
 <ul>
@@ -122,6 +141,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.11 Conditional (ternary) Operator</summary>
 <ul>
@@ -129,6 +150,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.12 Optional Chaining</summary>
 <ul>
@@ -136,6 +159,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.13 Assignment Operators</summary>
 <ul>
@@ -159,6 +184,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>1.14 Comma Operator</summary>
 <ul>
@@ -169,6 +196,7 @@ Below are all the possible things we will test for.
 
 ## 2. Statements and Declerations
 
+<!-- Dropdown -->
 <details>
 <summary>2.1 Control Flow</summary>
 <ul>
@@ -183,6 +211,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>2.2 Declarations</summary>
 <ul>
@@ -192,6 +222,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>2.3 Functions and Classes</summary>
 <ul>
@@ -203,6 +235,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>2.4 Iterations</summary>
 <ul>
@@ -215,6 +249,8 @@ Below are all the possible things we will test for.
 
 </ul>
 </details>
+
+<!-- Dropdown -->
 <details>
 <summary>2.5 Other</summary>
 <ul>
