@@ -14,9 +14,9 @@ Below are all the possible things we will test for.
 <li>this</li>
 <li>function</li>
 <li>class</li>
-<li>function\*</li>
+<li>function*</li>
 <li>yield</li>
-<li>yield\*</li>
+<li>yield*</li>
 <li>async</li>
 <li>await</li>
 <li>[]</li>
@@ -43,7 +43,7 @@ Below are all the possible things we will test for.
 <ul>
 <li>A++</li>
 <li>A--</li>
-<li>\-\-A</li>
+<li>--A</li>
 <li>++A</li>
 
 </ul>
@@ -54,8 +54,8 @@ Below are all the possible things we will test for.
 <li>delete</li>
 <li>void</li>
 <li>typeof</li>
-<li>\+</li>
-<li>\-</li>
+<li>++</li>
+<li>-</li>
 <li>~</li>
 <li>!</li>
 
@@ -64,12 +64,12 @@ Below are all the possible things we will test for.
 <details>
 <summary>1.5 Arithmatic Operators</summary>
 <ul>
-<li>\+</li>
-<li>\-</li>
+<li>++</li>
+<li>-</li>
 <li>/</li>
-<li>\*</li>
+<li>*</li>
 <li>%</li>
-<li>\*\*</li>
+<li>**</li>
 
 </ul>
 </details>
@@ -79,9 +79,9 @@ Below are all the possible things we will test for.
 <li>in</li>
 <li>instanceof</li>
 <li><</li>
-<li>\></li>
+<li>></li>
 <li><=</li>
-<li>\>=</li>
+<li>>=</li>
 
 </ul>
 </details>
@@ -99,8 +99,8 @@ Below are all the possible things we will test for.
 <summary>1.8 Bitwise Shift Operators</summary>
 <ul>
 <li><<</li>
-<li>\>\></li>
-<li>\>\>\></li>
+<li>>></li>
+<li>>>></li>
 
 </ul>
 </details>
@@ -140,15 +140,15 @@ Below are all the possible things we will test for.
 <summary>1.13 Assignment Operators</summary>
 <ul>
 <li>=</li>
-<li>\*-</li>
-<li>\*\*-</li>
+<li>*-</li>
+<li>**-</li>
 <li>/=</li>
 <li>%=</li>
 <li>+=</li>
-<li>\-=</li>
+<li>-=</li>
 <li><<=</li>
-<li>\>\>=</li>
-<li>\>\>\>=</li>
+<li>>>=</li>
+<li>>>>=</li>
 <li>&=</li>
 <li>^=</li>
 <li>|=</li>
@@ -196,7 +196,7 @@ Below are all the possible things we will test for.
 <summary>2.3 Functions and Classes</summary>
 <ul>
 <li>function</li>
-<li>function\*</li>
+<li>function*</li>
 <li>async function</li>
 <li>return</li>
 <li>class</li>
