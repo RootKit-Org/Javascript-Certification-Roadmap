@@ -21,7 +21,7 @@ Below are all the possible things we will test for.
 <li>await</li>
 <li>[]</li>
 <li>{}</li>
-<li>`/ab+c/i`</li>
+<li><code>/ab+c/i</code></li>
 <li>( )</li>
 
 </ul>
@@ -155,7 +155,7 @@ Below are all the possible things we will test for.
 <li>&&=</li>
 <li>||=</li>
 <li>??=</li>
-<li>`[a, b] = [1, 2]` `{a, b} = {a:1, b:2}`</li>
+<li><code>[a, b] = [1, 2]</code> <code>{a, b} = {a:1, b:2}</code></li>
 
 </ul>
 </details>
