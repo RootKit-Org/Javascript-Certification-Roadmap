@@ -146,7 +146,7 @@ Below are all the possible things we will test for.
 <details>
 <summary>1.11 Conditional (ternary) Operator</summary>
 <ul>
-<li>(condition ? ifTrue : ifFalse)</li>
+<li><code>(condition ? ifTrue : ifFalse)</code></li>
 
 </ul>
 </details>
