@@ -1,22 +1,26 @@
+# Javascript Certification Requirements
+
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-# Javascript Certification Requirements
 Welcome to RootKit's Javascript Certification Requirements! These requirements list
 everything you need to know in order to obtain our java certificate!
 
 Below is the link to our grading rubric!
 
 ## Table of Contents
+
 [Javascript Requirements](Javascript.md)\
 [Rubric](Rubric.md)
 
 ### Open Source Education
+
 We are a non-profit with a goal of making the computer science realm
 accessible to as many people as possible. This is not a joke! If you learn
 everything here and get the GenCyber Certificate you **DO NOT** have to go to
 college!
 
 ### Resources
+
 We have included not only the requirements in order to pass, but
 resources in order to learn the requirements. The resources list is a work in
 progress so feel free to contribute to it! All resources list are 100% FREE to
@@ -24,10 +28,12 @@ utilize unless stated otherwise. If any of the linked resources are no longer
 free and not marked as paid, please let us know ASAP or push up the correction.
 
 #### Free Websites
-[W3 Schools](https://www.w3schools.com/)\
+
+[W3 Schools](https://www.w3schools.com/js/)\
 [freeCodeCamp](https://www.freecodecamp.org/)
 
 #### Youtube Channels
+
 [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)\
 [thenewboston](https://www.youtube.com/user/thenewboston)\
 [Codecourse](https://www.youtube.com/channel/UCpOIUW62tnJTtpWFABxWZ8g)\
@@ -49,9 +55,11 @@ free and not marked as paid, please let us know ASAP or push up the correction.
 [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
 
 #### Mix (free and paid content)
+
 [Udemy](https://www.udemy.com/courses/development/)\
 [Codecademy](https://www.codecademy.com/)
 
 #### Paid
+
 [RootKit](https://rootkit.education/)\
 [Lynda](https://www.lynda.com/)
