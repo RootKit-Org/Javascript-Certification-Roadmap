@@ -6,6 +6,12 @@ Below are all the possible things we will test for.
 
 ---
 
+## Notes
+
+\** Not Tested for T1 But Required for higher tier cert. You should know it exists and be able to identify it's basic concepts.
+
+---
+
 ## 1. Basic Operators
 
 * \+
@@ -78,13 +84,74 @@ Below are all the possible things we will test for.
 * `try`
 * `while`
 
-## 7. Todo
+## 7. Objects
 
-## 8. Modules
+* Definition
+* Properties
+* Methods
+* Inheritence
+* Accessors
+* `this`
+* Prototypes
 
-## 9. Classes
+## 8. Functions
 
-## 10. Promises
+* Invocation
+* Binding
+* Parameters
+* `arguments`
+* Arrow-Functions (ES6)
+* `this`
+* Scope
 
-## 11. The Event Loop
+## 9. Modules
 
+* ESM - Browser & Node
+  * `.mjs`
+  * `import`
+    * Named Imports
+    * Default Imports
+  * `export`
+    * Named Exports
+    * Default Exports
+* CJS - Node**
+  * `.cjs`
+  * `require()`
+  * `module.exports`
+  * CJS DOES NOT WORK IN BROWSERS, however MANY modules use CJS for use in NodeJS (Backend). You should be able to identify the signs of Both to know if it will work in your environment, and potentially modify to work.
+
+## 10. Classes
+
+* Constructors
+* Methods
+* Inheritance
+* Static
+* Accessors
+
+## 11. Async
+
+* Async
+* Await
+* Callbacks
+* Promises
+
+---
+
+## 12. Promises **
+
+* Construction
+* `.then()`
+* `.catch()`
+* `.finally()`
+* Promise Rejection
+
+## 13. The Event Loop **
+
+The event loop is one of the most misunderstood concepts of Javascript.<br>Personally I Highly Highly reccomend watching [This Video](https://www.youtube.com/watch?v=cCOL7MC4Pl0) from JsConf.Asia 2018 -Snow
+
+* Runtime
+  * Stack
+  * Heap
+  * Queue
+* Run to Completion
+* Animation Frame
