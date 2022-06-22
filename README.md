@@ -1,8 +1,8 @@
-# Javascript Certification Requirements
+# Javascript Certification Roadmap
 
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-Welcome to RootKit's Javascript Certification Requirements! These requirements list
+Welcome to RootKit's Javascript Certification Roadmap! These requirements list
 everything you need to know in order to obtain our java certificate!
 
 Below is the link to our grading rubric!

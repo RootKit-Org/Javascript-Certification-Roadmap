@@ -8,7 +8,7 @@ Below are all the possible things we will test for.
 
 ## Notes
 
-\** Not Tested for T1 But Required for higher tier cert. You should know it exists and be able to identify it's basic concepts.
+\** Not Tested for in our level 1 cert but may be Required for the higher tier certifications. You should know it exists and be able to identify it's basic concepts.
 
 ---
 
@@ -89,7 +89,7 @@ Below are all the possible things we will test for.
 * Definition
 * Properties
 * Methods
-* Inheritence
+* Inheritance
 * Accessors
 * `this`
 * Prototypes
@@ -147,7 +147,7 @@ Below are all the possible things we will test for.
 
 ## 13. The Event Loop **
 
-The event loop is one of the most misunderstood concepts of Javascript.<br>Personally I Highly Highly reccomend watching [This Video](https://www.youtube.com/watch?v=cCOL7MC4Pl0) from JsConf.Asia 2018 -Snow
+The event loop is one of the most misunderstood concepts of Javascript.<br>Personally I Highly Highly recommend watching [This Video](https://www.youtube.com/watch?v=cCOL7MC4Pl0) from JsConf.Asia 2018 -Snow
 
 * Runtime
   * Stack
